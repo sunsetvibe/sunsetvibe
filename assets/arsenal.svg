@@ -1,0 +1,61 @@
+<svg width="100%" viewBox="0 0 680 90" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Mi Arsenal</title>
+  <defs>
+    <clipPath id="card-clip"><rect width="680" height="90" rx="10"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0%" stop-color="#0d0015"/>
+      <stop offset="100%" stop-color="#0a000f"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e0028"/>
+      <stop offset="100%" stop-color="#1a0022"/>
+    </linearGradient>
+    <linearGradient id="inner-bg" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#130018"/>
+      <stop offset="100%" stop-color="#0e0014"/>
+    </linearGradient>
+    <linearGradient id="glow-left" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ca1855" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#ca1855" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow-right" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7b2fff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7b2fff" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ca1855"/>
+      <stop offset="100%" stop-color="#f1b715"/>
+    </linearGradient>
+    <filter id="title-glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#ca1855" flood-opacity="0.4" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#card-clip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <rect width="680" height="90" fill="url(#bg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="340" height="90" fill="url(#glow-left)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect x="340" width="340" height="90" fill="url(#glow-right)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Barra superior consola -->
+    <rect x="20" y="10" width="640" height="32" rx="6" fill="url(#topbar)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect x="20" y="10" width="640" height="1.5" rx="1" fill="url(#accent)" opacity="0.5" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Título con glow -->
+    <g filter="url(#title-glow)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <text x="340" y="31" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Consolas',monospace" font-size="11" font-weight="700" fill="#ffe9f2" fill-opacity="0.88" letter-spacing="6" style="fill:rgb(255, 233, 242);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Fira Code&quot;, Consolas, monospace;font-size:11px;font-weight:700;text-anchor:middle;dominant-baseline:auto">MI ARSENAL</text>
+    </g>
+    <text x="36" y="31" font-family="'JetBrains Mono','Fira Code','Consolas',monospace" font-size="10" fill="#ca1855" fill-opacity="0.7" style="fill:rgb(202, 24, 85);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Fira Code&quot;, Consolas, monospace;font-size:10px;font-weight:400;text-anchor:start;dominant-baseline:auto">&gt;_</text>
+
+    <!-- Panel interior -->
+    <rect x="20" y="48" width="640" height="32" rx="6" fill="url(#inner-bg)" stroke="#ffffff" stroke-width="0.6" stroke-opacity="0.05" style="stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:0.6px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Subtítulo azul cielo -->
+    <text x="340" y="69" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Consolas',monospace" font-size="10" fill="#38bdf8" fill-opacity="0.55" letter-spacing="0.5" style="fill:rgb(56, 189, 248);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Fira Code&quot;, Consolas, monospace;font-size:10px;font-weight:400;text-anchor:middle;dominant-baseline:auto">// tecnologías y herramientas que uso día a día</text>
+  </g>
+
+  <rect width="680" height="90" rx="10" fill="none" stroke="#ca1855" stroke-width="0.8" stroke-opacity="0.25" style="fill:none;stroke:rgb(202, 24, 85);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="0" y="0" width="680" height="1.5" rx="1" fill="url(#accent)" opacity="0.8" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.8;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</svg>
