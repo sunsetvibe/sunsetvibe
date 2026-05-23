@@ -50,7 +50,6 @@
 
 <!-- NET METRICS -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_net_metrics.svg" width="100%"/>
-
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="50%">
@@ -65,7 +64,7 @@
       <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=last_repo" alt="Last worked repository" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=total_commits" alt="Total commits" width="100%" />
+      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=total_commits&t=1" alt="Total commits" width="100%" />
     </td>
   </tr>
   <tr>
@@ -73,13 +72,11 @@
       <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=active_days" alt="Active days" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=top_repo" alt="Top repository" width="100%" />
+      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=top_repo&t=1" alt="Top repository" width="100%" />
     </td>
   </tr>
 </table>
-
 <br/>
-
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="63%">
@@ -92,7 +89,6 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ACTIVITY -->
