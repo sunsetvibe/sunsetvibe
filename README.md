@@ -7,6 +7,36 @@
 
 <br/>
 
+<!-- SOCIAL HEADER -->
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/social_header.svg" width="100%"/>
+
+<!-- ICONOS CON LINKS — Simple Icons CDN con color -->
+<p align="center">
+  <a href="https://github.com/sunsetvibe">
+    <img src="https://cdn.simpleicons.org/github/ffe9f2" width="36" height="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/abraham-mateo-aquino/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36"/>
+</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/SunsetVibe">
+    <img src="https://cdn.simpleicons.org/behance/1769FF" width="36" height="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/beiingsunny/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ProjectSunny13">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="36" height="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@sunsetvibe_">
+    <img src="https://cdn.simpleicons.org/tiktok/ffe9f2" width="36" height="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/4a67coiwtrpj58cnch8jpd1ku">
+    <img src="https://cdn.simpleicons.org/spotify/1ED760" width="36" height="36"/>
+  </a>
+</p>
+
+
+
 <!-- BIO + QUOTE -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/bio.svg" width="100%"/>
 
@@ -50,6 +80,7 @@
 
 <!-- NET METRICS -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_net_metrics.svg" width="100%"/>
+
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="50%">
@@ -64,7 +95,7 @@
       <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=last_repo" alt="Last worked repository" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=total_commits&t=1" alt="Total commits" width="100%" />
+      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=total_commits" alt="Total commits" width="100%" />
     </td>
   </tr>
   <tr>
@@ -72,11 +103,13 @@
       <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=active_days" alt="Active days" width="100%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=top_repo&t=1" alt="Top repository" width="100%" />
+      <img src="https://githance.in/api/render?type=repo&variant=metric&v=rect-v4&user=sunsetvibe&metric=top_repo" alt="Top repository" width="100%" />
     </td>
   </tr>
 </table>
+
 <br/>
+
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
     <td align="center" valign="top" width="63%">
@@ -89,6 +122,7 @@
     </td>
   </tr>
 </table>
+
 <br/>
 
 <!-- ACTIVITY -->
@@ -149,4 +183,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%"/>
 </p>
-
