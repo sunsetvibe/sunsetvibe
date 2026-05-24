@@ -16,8 +16,8 @@
     <img src="https://cdn.simpleicons.org/github/ffe9f2" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/abraham-mateo-aquino/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36"/>
-</a>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto" width="36" height="36"/>
+</a>
   <a href="https://www.behance.net/SunsetVibe">
     <img src="https://cdn.simpleicons.org/behance/1769FF" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
