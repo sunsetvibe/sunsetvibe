@@ -31,9 +31,7 @@
   <a href="https://www.tiktok.com/@sunsetvibe_">
     <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23ffe9f2" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/4a67coiwtrpj58cnch8jpd1ku">
-    <img src="https://api.iconify.design/simple-icons:spotify.svg?color=%231ED760" width="36" height="36"/>
-  </a>
+  
 </p>
 
 
@@ -52,29 +50,6 @@
 
 <!-- SEPARADOR 1 — después del stack -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/separador.svg" width="100%"/>
-
-<br/>
-
-<!-- SPOTIFY -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="65%" valign="top">
-      <!-- FRASE — cámbiala aquí -->
-      <img src="./assets/titulo_musica.svg" width="100%"/>
-      <font color="#f1b715">継今、私の頭の中で流れているのはこれです</font>
-      <!-- <p>esto es lo que suena en mi cabeza en este momento</p> -->
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4a67coiwtrpj58cnch8jpd1ku&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4a67coiwtrpj58cnch8jpd1ku&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=true" width="100%"/>
-      </a>
-    </td>
-    <td width="5%"></td>
-    <td width="30%" valign="top" align="center">
-      <br/><br/>
-      <!-- GIF — reemplaza la URL aquí -->
-      <img src="https://media.giphy.com/media/TCfkCaxjYptXS1NW0B/giphy.gif" width="260px"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
