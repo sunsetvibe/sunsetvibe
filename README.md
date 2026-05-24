@@ -69,7 +69,7 @@
     </td>
     <td width="5%"></td>
     <td width="30%" valign="top" align="center">
-      <br/><br/><br/>
+      <br/><br/>
       <!-- GIF — reemplaza la URL aquí -->
       <img src="https://media.giphy.com/media/TCfkCaxjYptXS1NW0B/giphy.gif" width="360px"/>
     </td>
