@@ -10,31 +10,31 @@
 <!-- SOCIAL HEADER -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/social_header.svg" width="100%"/>
 
-<!-- ICONOS CON LINKS — Simple Icons CDN con color -->
+
+<!-- ICONOS CON LINKS — Iconify con color -->
 <p align="center">
   <a href="https://github.com/sunsetvibe">
-    <img src="https://cdn.simpleicons.org/github/ffe9f2" width="36" height="36"/>
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=%23ffe9f2" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abraham-mateo-aquino/">
-  <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="36" height="36"/>
-</a>
+  <a href="https://www.linkedin.com/in/abraham-mateo-aquino/">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="36" height="36"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/SunsetVibe">
-    <img src="https://cdn.simpleicons.org/behance/1769FF" width="36" height="36"/>
+    <img src="https://api.iconify.design/simple-icons:behance.svg?color=%231769FF" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/beiingsunny/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36"/>
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23E4405F" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ProjectSunny13">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="36" height="36"/>
+    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23FF0000" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@sunsetvibe_">
-    <img src="https://cdn.simpleicons.org/tiktok/ffe9f2" width="36" height="36"/>
+    <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=%23ffe9f2" width="36" height="36"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/4a67coiwtrpj58cnch8jpd1ku">
-    <img src="https://cdn.simpleicons.org/spotify/1ED760" width="36" height="36"/>
+    <img src="https://api.iconify.design/simple-icons:spotify.svg?color=%231ED760" width="36" height="36"/>
   </a>
 </p>
-
 
 
 <!-- BIO + QUOTE -->
