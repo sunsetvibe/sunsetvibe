@@ -71,7 +71,7 @@
     <td width="30%" valign="top" align="center">
       <br/><br/>
       <!-- GIF — reemplaza la URL aquí -->
-      <img src="https://media.giphy.com/media/TCfkCaxjYptXS1NW0B/giphy.gif" width="360px"/>
+      <img src="https://media.giphy.com/media/TCfkCaxjYptXS1NW0B/giphy.gif" width="260px"/>
     </td>
   </tr>
 </table>
