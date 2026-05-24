@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <!-- HERO -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/hero.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/hero.svg?v=2" width="100%"/>
 
 <br/>
 
