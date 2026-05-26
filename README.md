@@ -53,7 +53,7 @@
 <br/>
 
 <!-- NET METRICS -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_net_metrics.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_net_metrics.png" width="50%"/>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
