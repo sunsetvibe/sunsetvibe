@@ -3,9 +3,9 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <!-- HERO -->
-<a href="https://github.com/sunsetvibe">
+
   <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/hero.png" width="100%"/>
-</a>
+
 
 <br/>
 
