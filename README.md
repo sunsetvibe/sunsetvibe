@@ -7,7 +7,6 @@
   <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/hero.png" width="100%"/>
 
 
-<br/>
 
 <!-- SOCIAL HEADER -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/social_header.png" width="100%"/>
