@@ -6,8 +6,6 @@
 
   <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/hero.png" width="100%"/>
 
-
-
 <!-- SOCIAL HEADER -->
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/social_header.png" width="100%"/>
 
@@ -101,7 +99,7 @@
 <br/>
 
 <!-- ACTIVITY -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_activity.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_activity.png" width="50%"/>
 
 <p align="center">
   <a href="https://github.com/sunsetvibe">
@@ -112,7 +110,7 @@
 <br/>
 
 <!-- TROPHIES -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_trophies.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_trophies.png" width="90%"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sunsetvibe&theme=radical&no-frame=true&margin-w=6&margin-h=6&row=2&column=6" width="100%" />
@@ -121,7 +119,7 @@
 <br/>
 
 <!-- CONTRIBUTION -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_contribution.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_contribution.png" width="50%"/>
 
 <p align="center">
   <picture>
