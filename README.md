@@ -10,7 +10,7 @@
 <br/>
 
 <!-- SOCIAL HEADER -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/social_header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/social_header.png" width="100%"/>
 
 
 <!-- ICONOS CON LINKS — Iconify con color -->
@@ -38,12 +38,12 @@
 
 
 <!-- BIO + QUOTE -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/bio.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/bio.png" width="100%"/>
 
 <br/>
 
 <!-- MI ARSENAL — HEADER -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/arsenal.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/arsenal.png" width="100%"/>
 
 <!-- MI ARSENAL — ICONOS -->
 <p align="center">
@@ -56,7 +56,7 @@
 <br/>
 
 <!-- NET METRICS -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_net_metrics.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_net_metrics.png" width="100%"/>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
@@ -102,7 +102,7 @@
 <br/>
 
 <!-- ACTIVITY -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_activity.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_activity.png" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/sunsetvibe">
@@ -113,7 +113,7 @@
 <br/>
 
 <!-- TROPHIES -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_trophies.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_trophies.png" width="100%"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sunsetvibe&theme=radical&no-frame=true&margin-w=6&margin-h=6&row=2&column=6" width="100%" />
@@ -122,7 +122,7 @@
 <br/>
 
 <!-- CONTRIBUTION -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_contribution.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_contribution.png" width="100%"/>
 
 <p align="center">
   <picture>
@@ -138,7 +138,7 @@
 <br/>
 
 <!-- PROFILE TERMINAL -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/profile.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/profile.png" width="100%"/>
 
 <br/>
 
