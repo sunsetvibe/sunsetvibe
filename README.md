@@ -35,7 +35,7 @@
 
 
 <!-- BIO + QUOTE -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/bio.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/bio.gif" width="100%"/>
 
 <br/>
 
@@ -135,7 +135,7 @@
 <br/>
 
 <!-- PROFILE TERMINAL -->
-<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/profile.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/profile.gif" width="100%"/>
 
 <br/>
 
