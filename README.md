@@ -113,7 +113,7 @@
 <img src="https://raw.githubusercontent.com/sunsetvibe/sunsetvibe/main/assets/titulo_trophies.png" width="90%"/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunsetvibe&theme=radical&no-frame=true&margin-w=6&margin-h=6&row=2&column=6" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=sunsetvibe&theme=radical&no-frame=true&margin-w=6&margin-h=6&row=2&column=6" width="100%"/>
 </p>
 
 <br/>
